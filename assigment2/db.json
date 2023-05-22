@@ -1,0 +1,119 @@
+{
+  "header": [
+    {
+      "logo": "Lizaveta",
+        "nav": [
+            "About",
+            "Experience",
+            "Portfolio",
+            "Surprise me"
+        ]
+    }
+  ],
+  "generalSection": [
+    {
+      "pageTitle": "YELYZAVETA DOLHA"
+    }
+  ],
+  "aboutSection": [
+    {
+      "sectionTitle": "About",
+      "clearBtn": "Clear details",
+      "img": "img/avatar.jpg",
+      "name": "Yelyzaveta Dolha",
+      "skillsTitle": "Skills",
+      "skills": [
+        "Very Proficient Russian Language",
+        "Basic Spanish Language",
+        "Very Proficient MS Office",
+        "Very Proficient Photography",
+        "Basic Affinity Designer",
+        "Proficient Adobe Photoshop",
+        "Proficient Adobe Illustrator",
+        "Basic CSS",
+        "Basic HTML",
+        "Basic Bootstrap",
+        "Basic JavaScript",
+        "Very Proficient English Language",
+        "Very Proficient Social Media",
+        "Very Proficient Blogging",
+        "Very Proficient Content Writer",
+        "Very Proficient Creative Writing",
+        "Very Proficient Customer Service"
+        ],
+    "contact": [{
+      "contactTitle": "Contact info",
+      "contactId": "id: 22311491",
+      "contactMail": "romchicklox@gmail.com"
+    }]
+    },
+    {
+    }
+  ],
+  "Experience": [
+    {
+      "sectionTitle": "Experience",
+      "clearBtn": "Clear details"},
+    [
+      {
+        "firstCourse": "img/exp/course1.jpg",
+        "secondCourse": "img/exp/course2.jpg",
+        "thirdCourse": "img/exp/course.jpg"
+      }
+    ],
+    {
+      "jobs": [
+        [{
+          "jobTitle": "Social media officer",
+          "jobYear": "2020",
+          "jobDesc": "1. Develop and implement social media strategies and campaigns that align with the organization's goals and objectives. 2. Creating and curating engaging content on various social media platforms including Instagram, YouTube, TikTok, and others."
+        }],
+        [{
+          "jobTitle": "English and Art tutor",
+          "jobYear": "2019",
+          "jobDesc": "Preparing lesson plans and creating lesson plans that cover both the art and English subjects, outlining the objectives, activities, and resources needed for each session. Assessing students' abilities: evaluating each student's level of proficiency in both subjects and designing lesson plans that cater to their individual learning needs."
+        }],
+        [{
+          "jobTitle": "Locksmith",
+          "jobYear": "2023",
+          "jobDesc": "Responsible for installing, repairing, and maintaining locks and security systems in residential, commercial, and industrial settings. They will work with a variety of lock types, including mechanical and electronic locks."
+        }]
+      ]
+    },
+    {
+    }
+  ],
+  "Portfolio": [
+    {
+      "sectionTitle": "Portfolio",
+      "clearBtn": "Clear details"},
+    {
+      "projects": [
+        {
+          "projectImg": "img/portfolio/img1.jpg",
+          "projectTitle": "Project 1",
+          "projectSummary": "Created a page with interactive buttons by clicking changing the text",
+          "projectDesc": "Three sentences located on the top left side with two buttons in each section that changes the text and resetting the text to begging version."
+        },
+        {
+          "projectImg": "img/portfolio/img2.jpg",
+          "projectTitle": "Project 2",
+          "projectSummary": "Using divs and the images I created a web page that approximates it.",
+          "projectDesc": "A webpage with the title 'My favourite app' with background picture and any text on the side."
+        },
+        {
+          "projectImg": "img/portfolio/img3.jpg",
+          "projectTitle": "Project 3",
+          "projectSummary": "Created a web page that mimics the given design using divs and images.",
+          "projectDesc": "A webpage consists of four images same style and theme, logo and the name in header."
+        },
+        {
+          "projectImg": "img/portfolio/img4.jpg",
+          "projectTitle": "Project 4",
+          "projectSummary": "Created a web page with personal information",
+          "projectDesc": "A web page consists personal information in tree different sections that mirroring special objects needed in the task."
+        }
+    ]
+  }
+  ]
+}
